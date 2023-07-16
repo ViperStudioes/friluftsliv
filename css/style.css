@@ -359,6 +359,8 @@ float: left;
 
 #showcasetittel{
 	font-size: 3em;
+	position: absolute;
+	padding-top: 100px;
 }
 #forsidebilde {
 	
