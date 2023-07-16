@@ -360,7 +360,11 @@ float: left;
 #showcasetittel{
 	font-size: 3em;
 }
-
+#forsidebilde {
+	
+	width: 100%;
+	height: auto;
+}
 .aktiviteter {
 	place-items: center;
 	
